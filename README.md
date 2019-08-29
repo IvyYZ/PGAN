@@ -16,7 +16,7 @@ pip install scipy, pillow, torchvision, sklearn, h5py, dominate, visdom
 ```
 sh train.sh
 ```
-
+## Acknowledgements
 Our code is inspired by [FDGAN] (https://github.com/yxgeee/FD-GAN), [PCB] (https://github.com/syfafterzy/PCB_RPP_for_reIDand) and [open-reid](https://github.com/Cysu/open-reid).
 
 
