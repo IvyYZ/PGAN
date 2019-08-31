@@ -12,10 +12,30 @@ ReID
 ```
 pip install scipy, pillow, torchvision, sklearn, h5py, dominate, visdom
 ```
+### Datasets
+- Create directories for datasets:
+```
+mkdir datasets
+cd datasets/
+```
+- Download datasets through the links below, and `unzip` them in the same root path.  
+*Market1501*:[[Baidu Pan]](https://pan.baidu.com/s/1XN5EyIFHcOxATezcWbVLTA)  
+
+### Model
+- Create directories for datasets:
+```
+mkdir bestmodel
+cd bestmodel
+```
+- Download trained model through the links below. it include encoder pre-model and the whole model.  
+*encoder pre-trained model*:[[Baidu Pan]](https://pan.baidu.com/s/1T626WlYHoad31Kadn2x1MA)  
+*GAN model*:[[Baidu Pan]](https://pan.baidu.com/s/1haO4CvBFGuK6QA9BuStwzA) 
+
 ## Run code
 ```
 sh train.sh
 ```
+
 ## Acknowledgements
 Our code is inspired by [FDGAN] (https://github.com/yxgeee/FD-GAN), [PCB] (https://github.com/syfafterzy/PCB_RPP_for_reIDand) and [open-reid](https://github.com/Cysu/open-reid).
 
