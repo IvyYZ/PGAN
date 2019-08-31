@@ -1,5 +1,5 @@
 ![Python 3](https://img.shields.io/badge/python-3-green.svg) ![Pytorch 0.3](https://img.shields.io/badge/pytorch-0.3-blue.svg)
-# DIGAN
+#PGAN
 ReID 
 ## Prerequisites
 - Python 3
