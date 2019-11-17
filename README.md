@@ -32,6 +32,7 @@ cd bestmodel
 *GAN model*:[[Baidu Pan]link](https://pan.baidu.com/s/1haO4CvBFGuK6QA9BuStwzA) 
 
 ## Run code
+defalut: +reranking, if you want to remove re_ranking, you need to modify ./reid/evaluators.py
 ```
 sh train.sh
 ```
