@@ -38,27 +38,18 @@ sh train.sh
 ```
 ## Citation
 If you use this method or this code in your research, please cite as:
-
+```
 @article{zhang2020pgan,
-  
   title={PGAN: Part-based nondirect coupling embedded GAN for person reidentification},
-  
-  author={Zhang, Yue and Jin, Yi and Chen, Jianqiang and Kan, Shichao and Cen, Yigang and Cao, Qi},
-  
-  journal={IEEE MultiMedia},
-  
+  author={Zhang, Yue and Jin, Yi and Chen, Jianqiang and Kan, Shichao and Cen, Yigang and Cao, Qi}, 
+  journal={IEEE MultiMedia}, 
   volume={27},
-  
   number={3},
-  
-  pages={23--33},
-  
+  pages={23--33}, 
   year={2020},
-  
   publisher={IEEE}
-
 }
-
+```
 ## Acknowledgements
 Our code is inspired by [FDGAN] (https://github.com/yxgeee/FD-GAN), [PCB] (https://github.com/syfafterzy/PCB_RPP_for_reIDand) and [open-reid](https://github.com/Cysu/open-reid).
 
