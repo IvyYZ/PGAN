@@ -37,9 +37,9 @@ defalut: +reranking, if you want to remove re_ranking, you need to modify ./reid
 sh train.sh
 ```
 ## Citation
--If you use this method or this code in your research, please cite as:
+If you use this method or this code in your research, please cite as:
 
--@article{zhang2020pgan,
+@article{zhang2020pgan,
   title={PGAN: Part-based nondirect coupling embedded GAN for person reidentification},
   author={Zhang, Yue and Jin, Yi and Chen, Jianqiang and Kan, Shichao and Cen, Yigang and Cao, Qi},
   journal={IEEE MultiMedia},
